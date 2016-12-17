@@ -3,4 +3,7 @@
 html{color:#333 !important;}
 body{font-family:'Source Sans Pro', sans-serif !important;}
 .timeline-Tweet:hover{background-color:#FFF !important;}
-.timeline-Tweet{padding:15px !important;}
+.timeline-Tweet{padding:0px !important;}
+
+.timeline-Tweet-author{display:none !imporant;}
+.timeline-Tweet-text{margin-left:0;}
