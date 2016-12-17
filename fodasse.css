@@ -1,0 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+html{color:#333 !important;}
+body{font-family:'Source Sans Pro', sans-serif !important;}
+.timeline-Tweet:hover{background-color:#FFF !important;}
+.timeline-Tweet{padding:0px !important;}
+.timeline-Tweet-author, .TweetAuthor, .timeline-Tweet-actions{display:none !important;}
+.timeline-Tweet-text{margin-left:0 !important;}
