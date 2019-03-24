@@ -1,0 +1,6 @@
+@font-face {
+font-family: 'CaviarDreams';
+src: url('Erickii/cssandjs/blob/master/CaviarDreams.eot') format('eot'),
+url('/Erickii/cssandjs/blob/master/CaviarDreams.woff') format('woff'),
+url('/Erickii/cssandjs/blob/master/CaviarDreams%20(1).ttf') format('truetype');
+}
